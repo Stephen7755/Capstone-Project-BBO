@@ -77,3 +77,8 @@ The possibility of irrelevant or weakly informative input dimensions
 Despite these limitations, the project demonstrates the value of uncertainty aware decision making, iterative refinement, and careful experiment design.
 
 Overall, this capstone reflects real world data science scenarios where information is incomplete, data are expensive to obtain, and progress depends on making informed, sequential decisions rather than relying on exhaustive search.
+
+## Documentation
+
+- [Datasheet](DATASHEET.md)
+- [Model Card](MODEL_CARD.md)
