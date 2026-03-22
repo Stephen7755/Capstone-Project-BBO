@@ -30,3 +30,45 @@ Each round:
 ---
 
 ## Repository Structure
+BBO-Capstone/
+│
+├── BBO_Optimisation_Notebook.ipynb
+├── initial_inputs.npy
+├── initial_outputs.npy
+├── next_query_point_2d.npy
+├── next_query_point_3d.npy
+├── next_query_point_4d.npy
+├── next_query_point_5d.npy
+├── next_query_point_6d.npy
+├── next_query_point_7d.npy
+├── next_query_point_8d.npy
+│
+├── DATASHEET.md
+├── MODEL_CARD.md
+├── requirements.txt
+└── README.md
+
+---
+
+## Key Results
+
+- Strong early improvement from exploratory sampling
+- Gradual convergence toward high-performing regions
+- Increased dimensional sensitivity at 6D–8D
+- Clear transition from exploration to exploitation
+
+---
+
+## Reproducibility
+
+1. Install dependencies: pip install -r requirements.txt
+2. Open and run: BBO_Optimisation_Notebook.ipynb
+
+
+All query points will be regenerated automatically.
+
+---
+
+## Author: STEPHEN SEFA
+
+Final Submission – Bayesian Black-Box Optimisation Capstone
