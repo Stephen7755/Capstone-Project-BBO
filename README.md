@@ -35,14 +35,6 @@ BBO-Capstone/
 ├── BBO_Optimisation_Notebook.ipynb
 ├── initial_inputs.npy
 ├── initial_outputs.npy
-├── next_query_point_2d.npy
-├── next_query_point_3d.npy
-├── next_query_point_4d.npy
-├── next_query_point_5d.npy
-├── next_query_point_6d.npy
-├── next_query_point_7d.npy
-├── next_query_point_8d.npy
-│
 ├── DATASHEET.md
 ├── MODEL_CARD.md
 ├── requirements.txt
